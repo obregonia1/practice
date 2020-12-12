@@ -28,7 +28,6 @@
   <p>Hello World</p>
   <p>Git</p>
   <p>Hub</p>
-  <p>why</p>
 </body>
 
 </html>
